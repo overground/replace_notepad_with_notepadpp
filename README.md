@@ -1,4 +1,4 @@
-# replace_notepad_by_notepadpp
+# replace_notepad__with_notepadpp
 
 1 - Copy `Notepad++ParamProxy.exe` to notepad++ install directory (`C:\Program Files\Notepad++` for Win32 OS or `C:\Program Files (86)\Notepad++` for Win x64).
 
